@@ -1,4 +1,4 @@
-# Awesome Array Playground 🚀
+# Numpy Array Playground 🚀
 
 Welcome to the Awesome Array Playground repository! Here, we explore the world of arrays through tasks like creation, indexing, and manipulation.
 
